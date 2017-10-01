@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "436617424352",
+    "firebase_url": "https://onlinetactoegame.firebaseio.com",
+    "project_id": "onlinetactoegame",
+    "storage_bucket": "onlinetactoegame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436617424352:android:5776eee0f3111ab7",
+        "android_client_info": {
+          "package_name": "com.arsalankhan.onlinetactoegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436617424352-t8u1f07lf6816f0f8bbpkhlmvusd0b23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arsalankhan.onlinetactoegame",
+            "certificate_hash": "583dfe7d4d45b77ed0f30af2c1d6a3b265b4bb21"
+          }
+        },
+        {
+          "client_id": "436617424352-fgdl27cmnt3drrpr1hj7217p5iqhhs5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8thsAGdgYIKwoN27OXA8BNX9hrdJrCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436617424352-fgdl27cmnt3drrpr1hj7217p5iqhhs5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436617424352:android:7e8e2e5996643acc",
+        "android_client_info": {
+          "package_name": "com.onlinetactictoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436617424352-aq43qaljsfn538psks0c161loi33i74f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlinetactictoe",
+            "certificate_hash": "583dfe7d4d45b77ed0f30af2c1d6a3b265b4bb21"
+          }
+        },
+        {
+          "client_id": "436617424352-fgdl27cmnt3drrpr1hj7217p5iqhhs5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8thsAGdgYIKwoN27OXA8BNX9hrdJrCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436617424352-fgdl27cmnt3drrpr1hj7217p5iqhhs5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
